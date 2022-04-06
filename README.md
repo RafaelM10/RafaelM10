@@ -18,5 +18,5 @@
   ## Redes sociais :
   
   <div> <a href = "mailto:rafaelmeira2020@gmail.com"><img src = "https://img.shields.io/badge/-Gmail-%23333? style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> 
-        </a> <a href="https://www.linkedin.com/in/rafael-meira-b3a114179" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-1C1C1C? style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/rafael-meira-b3a11479/"/> </a>
+        </a> <a href="https://www.linkedin.com/in/rafael-meir-b3a114179" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-1C1C1C? style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/rafael-meira-b3a11479/"/> </a>
 </div> </a>
