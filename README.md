@@ -1,6 +1,8 @@
 ### Hello devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Gosto de criar ótimos softwares, resolver problemas e ajudar outras pessoas a fazer o mesmo.
+<br>Venho atualmente estudando inglês e aprofundando conhecimento em React, Node js.
+
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
