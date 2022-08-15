@@ -1,22 +1,37 @@
-# Olá! Eu Sou o Rafael Meira e sejam bem-vindos! :smile:
-<p>Estou focado em me desenvolver a cada dia, sendo assim estou sempre melhor que ontem.</p>
+### Hello devs 👋
 
-# Minhas Estatísticas: 
-<div align="center">
-  <a href="https://github.com/RafaelM10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelM10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelM10&layout=compact&langs_count=7&theme=dracula"/>
-</div> 
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+object **MeiraDev** {
+ val name = "Rafael Meira"
+ val acknowledgements = "Desenvolvedor Front end"
  
-<div style="display: inline_block"><br>
-  <img align="center" alt="RafaelM10-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="RafaelM10-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="RafaelM10-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="RafaelM10-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" >
-</div>
-  
-  ## Redes sociais :
-  
-  <div> <a href = "mailto:rafaelmeira2020@gmail.com"><img src = "https://img.shields.io/badge/-Gmail-%23333? style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> 
-        </a> <a href="https://www.linkedin.com/in/rafael-meir-b3a114179" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-1C1C1C? style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/rafael-meira-b3a11479/"/> </a>
-</div> </a>
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val desenvolvoTambemEm = listOf("HTML", "CSS")
+ val languages = listOf("JavaScript", "React", "TypeScript") 
+}
+```
+## **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
+<code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB/topics/react/react.png"></code>
+<code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></code>
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelM10&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelM10&show_icons=true&theme=dracula&line_height=27" alt="**MeiraDev** github stats"/>
+</a>
