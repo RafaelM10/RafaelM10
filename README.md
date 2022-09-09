@@ -15,7 +15,7 @@ object **MeiraDev** {
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val desenvolvoTambemEm = listOf("HTML", "CSS")
- val languages = listOf("JavaScript", "React", "TypeScript") 
+ val languages = listOf("JavaScript", "React", "TypeScript", "NodeJS) 
 }
 ```
 ## **Linguagens e Ferramentas:**  
