@@ -11,7 +11,7 @@ Gosto de criar ótimos softwares, resolver problemas e ajudar outras pessoas a f
 ```kotlin
 object **MeiraDev** {
  val name = "Rafael Meira"
- val acknowledgements = "Desenvolvedor Front end"
+ val acknowledgements = "Desenvolvedor Full stack"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val desenvolvoTambemEm = listOf("HTML", "CSS")
