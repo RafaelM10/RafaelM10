@@ -15,7 +15,9 @@ object **MeiraDev** {
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val desenvolvoTambemEm = listOf("HTML", "CSS")
- val languages = listOf("JavaScript", "React", "TypeScript", "NodeJS) 
+ val languages = listOf("JavaScript", "React", "TypeScript", "NodeJS, SQL) 
+ val possuoConhecimentoTambem = listOf("MariaDb", "MongoDB", "postgreSQL", "MySQL")
+ val metodologiaAgeis = listOf("Azure", "skrum", "kanbam")
 }
 ```
 ## **Linguagens e Ferramentas:**  
