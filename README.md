@@ -22,7 +22,8 @@ public function skills(): array {
         "frontend" => ["HTML", "CSS", "JavaScript", "React", "Typescript"],
         "backend" => ["PHP", "Node.js", "Typescript", "SQL"],
         "unitaryTests" => ["JEST", "PHPUNIT],
-        "banco_de_dados" => ["MySQL", "PostgreSQL", "MongoDB", "MariaDB"],
+        "otherKnowledges" => ["Express", "Sequelize", "NestJS", "Swagger", "TypeORM", "JWT"],
+        "database" => ["MySQL", "PostgreSQL", "MongoDB", "MariaDB"],
         "metodologia_agil" => ["Azure", "Scrum", "Kanban", "Jira"]
     ];
  }
