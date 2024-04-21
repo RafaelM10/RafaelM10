@@ -22,9 +22,10 @@ public function skills(): array {
         "frontend" => ["HTML", "CSS", "JavaScript", "React", "Typescript"],
         "backend" => ["PHP", "Node.js", "Typescript", "SQL"],
         "unitaryTests" => ["JEST", "PHPUNIT],
-        "otherKnowledges" => ["Express", "Sequelize", "NestJS", "Swagger", "TypeORM", "JWT"],
+        "otherKnowledges" => ["Linux", "Express", "Sequelize", "NestJS", "Swagger", "TypeORM", "JWT"],
         "database" => ["MySQL", "PostgreSQL", "MongoDB", "MariaDB"],
-        "metodologia_agil" => ["Azure", "Scrum", "Kanban", "Jira"]
+        "metodologia_agil" => ["Azure", "Scrum", "Kanban", "Jira"],
+        "Devops" => ["Docker"]
     ];
  }
 
